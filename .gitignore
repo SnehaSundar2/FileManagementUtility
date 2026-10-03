@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+filemanager.log
+folder_report.txt
+file_list.csv
+demo_folder/
